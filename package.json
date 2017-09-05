@@ -2,10 +2,13 @@
   "name": "typescript-node-starter",
   "version": "1.0.0",
   "description": "Gettig start TypeScript with Node.Js",
-  "main": "index.js",
+  "main": "server.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kitti Boonchan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.5.2"
+  }
 }
